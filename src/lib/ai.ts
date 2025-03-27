@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
-const genAI = new GoogleGenerativeAI('AIzaSyBnYDCl9yGJKnp1bLSla_EQjMEjK2jxsB4');
+const genAI = new GoogleGenerativeAI('AIzaSyCQbRM8wyL6yPYnEP8Jc-OpCAQoQ1jjDTk');
 
 const SYSTEM_PROMPT = `You are a helpful AI assistant specializing in location information and navigation. Follow these formats strictly:
 
